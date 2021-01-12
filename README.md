@@ -4,7 +4,7 @@ Blog application developed using React native, react context which provides feat
 
 Link to the application:- Coming soon!!
 
-- If using DATA API, Please do the following before launching the react-native server:-
+If using DATA API, Please do the following before launching the react-native server:-
 * Open terminal Under BlogApp/blog(With DATA API)/jsonserver/
 * Run the db and tunnel on two separate terminals (Make sure to install ngrok)
     ```
