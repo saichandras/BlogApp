@@ -11,6 +11,7 @@ If using DATA API, Please do the following before building the app using react-n
     npm run db
     npm run tunnel
     ```
+* Paste the ngrok URL in jsonServer.js located under BlogApp/blog(With DATA API)/src/api/
 * Finally, start the react-native server
 
 Images:-
