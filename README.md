@@ -2,7 +2,7 @@
 
 Blog application developed using React native, react context which provides features for users to create, edit, delete, and see the blog posts. Also, upgraded the app to use the DATA API to store, fetch the blogs from the server and allows users to take advantage of the same features but using API calls.
 
-Link to the application:- Coming soon!!
+Link to the application:- <a id="blogs-app-android" href="https://alabama.box.com/s/q4t8u79baifbyfba8pv9hc0mb7zgk87t">Android</a>
 
 If using DATA API, Please do the following before building the app using react-native server:-
 * Open terminal Under BlogApp/blog(With DATA API)/jsonserver/
